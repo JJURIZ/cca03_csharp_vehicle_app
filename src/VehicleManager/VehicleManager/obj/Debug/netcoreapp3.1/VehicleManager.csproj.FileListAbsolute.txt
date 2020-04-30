@@ -1,0 +1,13 @@
+C:\CCA03\cca03_csharp_vehicle_app\src\VehicleManager\VehicleManager\bin\Debug\netcoreapp3.1\VehicleManager.exe
+C:\CCA03\cca03_csharp_vehicle_app\src\VehicleManager\VehicleManager\bin\Debug\netcoreapp3.1\VehicleManager.deps.json
+C:\CCA03\cca03_csharp_vehicle_app\src\VehicleManager\VehicleManager\bin\Debug\netcoreapp3.1\VehicleManager.runtimeconfig.json
+C:\CCA03\cca03_csharp_vehicle_app\src\VehicleManager\VehicleManager\bin\Debug\netcoreapp3.1\VehicleManager.runtimeconfig.dev.json
+C:\CCA03\cca03_csharp_vehicle_app\src\VehicleManager\VehicleManager\bin\Debug\netcoreapp3.1\VehicleManager.dll
+C:\CCA03\cca03_csharp_vehicle_app\src\VehicleManager\VehicleManager\bin\Debug\netcoreapp3.1\VehicleManager.pdb
+C:\CCA03\cca03_csharp_vehicle_app\src\VehicleManager\VehicleManager\obj\Debug\netcoreapp3.1\VehicleManager.csprojAssemblyReference.cache
+C:\CCA03\cca03_csharp_vehicle_app\src\VehicleManager\VehicleManager\obj\Debug\netcoreapp3.1\VehicleManager.csproj.CoreCompileInputs.cache
+C:\CCA03\cca03_csharp_vehicle_app\src\VehicleManager\VehicleManager\obj\Debug\netcoreapp3.1\VehicleManager.AssemblyInfoInputs.cache
+C:\CCA03\cca03_csharp_vehicle_app\src\VehicleManager\VehicleManager\obj\Debug\netcoreapp3.1\VehicleManager.AssemblyInfo.cs
+C:\CCA03\cca03_csharp_vehicle_app\src\VehicleManager\VehicleManager\obj\Debug\netcoreapp3.1\VehicleManager.dll
+C:\CCA03\cca03_csharp_vehicle_app\src\VehicleManager\VehicleManager\obj\Debug\netcoreapp3.1\VehicleManager.pdb
+C:\CCA03\cca03_csharp_vehicle_app\src\VehicleManager\VehicleManager\obj\Debug\netcoreapp3.1\VehicleManager.genruntimeconfig.cache
